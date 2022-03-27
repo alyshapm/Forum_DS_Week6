@@ -2,3 +2,5 @@
 Repository containing the submission for Data Structures forum week 6.
 
 Group 1: Arish, Alysha, Dafa of L2AC
+
+![diagram combination recursion](http://url/to/img.png)
